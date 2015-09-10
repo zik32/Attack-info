@@ -32,5 +32,5 @@ L 08/08/2015 - 14:11:20: "46.105.100.225:27016<994><STEAM_0:0:2100832143><>" con
 L 08/07/2015 - 16:35:40: "saadad<1113><STEAM_0:0:134075458><>" connected, address "213.230.81.132:35873"
 L 08/06/2015 - 11:35:58: "(1)Satisfaction<892><STEAM_666:88:666><>" connected, address "5.165.193.204:1025"
 
-spoof query traffic
+spoof query traffic in 24mbit out 34mbit. in 37k pps
 L 09/04/2015 - 21:38:53: "TEARS @ flusha /A/<1819><STEAM_0:1:122294411><>" connected, address "159.224.40.146:27005"
