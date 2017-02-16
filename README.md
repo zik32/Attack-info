@@ -34,3 +34,7 @@ L 08/06/2015 - 11:35:58: "(1)Satisfaction<892><STEAM_666:88:666><>" connected, a
 
 spoof query traffic in 24mbit out 34mbit. in 37k pps
 L 09/04/2015 - 21:38:53: "TEARS @ flusha /A/<1819><STEAM_0:1:122294411><>" connected, address "159.224.40.146:27005"
+
+Замер пингов по странам
+30ms- казахстан беларусь молдова
+100ms - португалия англия
